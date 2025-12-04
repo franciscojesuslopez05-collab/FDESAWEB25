@@ -25,11 +25,11 @@ Esta aplicación es un **gestor de contenidos personal** donde los usuarios pued
 - **MySQL** - Base de datos
 
 ## Características clave (lista no numerada)
-- ✅ Interfaz minimalista y fácil de usar
-- ✅ Sincronización en tiempo real
-- ✅ Modo oscuro/claro
-- ✅ Exportación de datos a PDF/Excel
-- ✅ Integración con Google Calendar
+- Interfaz minimalista y fácil de usar
+- Sincronización en tiempo real
+- Modo oscuro/claro
+- Exportación de datos a PDF/Excel
+- Integración con Google Calendar
 
 ### Fases de desarrollo (lista numerada)
 1. Investigación y planificación (2 semanas)
@@ -58,3 +58,6 @@ html
 <p>Aquí puedes organizar tus notas.</p>
 </body>
 </html>
+
+## Imagen del proyecto
+![Boceto de la aplicación](images/tarea.png)
