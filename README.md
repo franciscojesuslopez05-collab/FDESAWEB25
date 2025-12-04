@@ -5,7 +5,7 @@ Esta aplicación es un **gestor de contenidos personal** donde los usuarios pued
 
 ## Público objetivo
 - **Estudiantes universitarios** que necesitan apuntes.
-- *Profesionalese* con múltiples proyectos.
+- *Profesionales* con múltiples proyectos.
 - Cualquier persona que busque **organizar información personal**.
 
 ## Funcionalidades principales
@@ -42,7 +42,7 @@ Esta aplicación es un **gestor de contenidos personal** donde los usuarios pued
 > "La productividad no es hacer más cosas, sino hacer las cosas correctas de manera eficiente."
 
 ### Ejemplo de código HTML
-html
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -55,9 +55,23 @@ html
     <header>
         <h1>Bienvenido al gestor</h1>
     </header>
-<p>Aquí puedes organizar tus notas.</p>
+    <p>Aquí puedes organizar tus notas.</p>
 </body>
 </html>
+```
+## Tabla de tipos de contenido
+| Tipo | Descripción | Ejemplo |
+|------|-------------|---------|
+| Nota rápida | Texto breve | Recordatorios |
+| Artículo | Texto largo con formato | Entradas de blog |
+| Recurso | Archivos multimedia | Imágenes, PDFs |
+
+## Enlaces y recursos
+- [Documentación oficial de PHP](https://www.php.net/docs.php) - Para aprender PHP
+- [![Logo HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)](https://developer.mozilla.org/es/docs/Web/HTML) - Logo de HTML5 que lleva a MDN
 
 ## Imagen del proyecto
 ![Boceto de la aplicación](images/tarea.png)
+
+## Más información
+Para detalles técnicos de las funcionalidades, consulta: [Detalles Funcionales](detalle-funcional.md)
